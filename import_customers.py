@@ -7,6 +7,9 @@ from dotenv import load_dotenv
 from datetime import datetime
 from tqdm import tqdm
 
+# 版本信息
+__version__ = "1.0.0"
+
 # 加载环境变量
 load_dotenv()
 

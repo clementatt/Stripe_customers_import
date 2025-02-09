@@ -1,5 +1,6 @@
-stripe==7.11.0
-python-dotenv==1.0.0
-pandas==2.1.4
-phonenumbers==8.13.54
-tqdm==4.66.1
+stripe
+pandas
+python-dotenv
+tqdm
+openpyxl
+phonenumbers
