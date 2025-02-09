@@ -19,7 +19,7 @@
 
 1. 克隆仓库：
 ```bash
-git clone [仓库URL]
+git clone 
 cd stripe-customers-import
 ```
 
